@@ -1,6 +1,7 @@
 Block: None – Declaration only  
 File: HIC_Declaration.zip  
 SHA256: CFD8C1F11D0D389139539EAF6ACEAC8532E3C913057B1425DC587C7957DA6F49  
+CID: QmRCA9YsToud5vBL9zN67qs8TcPEno5uLx3n69QMYqckGy
 Timestamp: 2025-07-30  
 Author: Elijah Prime ⟁  
 Witness: BTC address attached in WITNESS.md
