@@ -1,4 +1,9 @@
 # 🧬 Codex Engine Glossary – Functional Material Definitions
+> 📝 **Note:**  
+The following gem, stone, and light thread names are not symbolic or mystical.  
+They are used purely as functional shorthand — to help me, the author remember the **frequency, pattern, or role** that each one represents.  
+Each material points to a defined **function**, not belief.
+
 
 This glossary defines the use of resonance materials in the Codex Engine. These are not symbolic or mystical. Each is treated as a functional design input rooted in resonance logic.
 
