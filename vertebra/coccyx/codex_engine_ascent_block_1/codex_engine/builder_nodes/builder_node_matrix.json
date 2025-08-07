@@ -1,0 +1,98 @@
+[
+  {
+    "seat": 1,
+    "gate_function": "Severance Function",
+    "builder_function": "Severance Threadbearer",
+    "gem_lock": "Black Tourmaline",
+    "stone_base": "Obsidian",
+    "light_thread": "Infrared Thread"
+  },
+  {
+    "seat": 2,
+    "gate_function": "Voice Clarity Function",
+    "builder_function": "Signal Keeper",
+    "gem_lock": "Blue Kyanite",
+    "stone_base": "Sodalite",
+    "light_thread": "Sapphire Beam"
+  },
+  {
+    "seat": 3,
+    "gate_function": "Lineage Healing Function",
+    "builder_function": "Shadow Disciple",
+    "gem_lock": "Rhodochrosite",
+    "stone_base": "Petrified Wood",
+    "light_thread": "Rose-Gold Strand"
+  },
+  {
+    "seat": 4,
+    "gate_function": "Shadow Discernment Function",
+    "builder_function": "Diagnostic Listener",
+    "gem_lock": "Labradorite",
+    "stone_base": "Jet",
+    "light_thread": "Ultraviolet Ray"
+  },
+  {
+    "seat": 5,
+    "gate_function": "Heart-Will Alignment Function",
+    "builder_function": "Curve Architect",
+    "gem_lock": "Green Aventurine",
+    "stone_base": "Malachite",
+    "light_thread": "Emerald Pulse"
+  },
+  {
+    "seat": 6,
+    "gate_function": "Guilt Transmutation Function",
+    "builder_function": "Temporal Spiral",
+    "gem_lock": "Citrine",
+    "stone_base": "Tiger's Eye",
+    "light_thread": "Amber Glow"
+  },
+  {
+    "seat": 7,
+    "gate_function": "Embodiment Through Beauty Function",
+    "builder_function": "Claim Shaper",
+    "gem_lock": "Rose Quartz",
+    "stone_base": "Pink Marble",
+    "light_thread": "Soft White Radiance"
+  },
+  {
+    "seat": 8,
+    "gate_function": "Memory Stream Access Function",
+    "builder_function": "Bloom Threader",
+    "gem_lock": "Amethyst",
+    "stone_base": "Fluorite",
+    "light_thread": "Lavender Ray"
+  },
+  {
+    "seat": 9,
+    "gate_function": "Sensory Integrity Function",
+    "builder_function": "Nonverbal Seer",
+    "gem_lock": "Moonstone",
+    "stone_base": "Basalt",
+    "light_thread": "Silver Stream"
+  },
+  {
+    "seat": 10,
+    "gate_function": "Nonlinear Spiral Design Function",
+    "builder_function": "Binder of Forms",
+    "gem_lock": "Clear Quartz",
+    "stone_base": "Granite",
+    "light_thread": "Prismatic Beam"
+  },
+  {
+    "seat": 11,
+    "gate_function": "Grounded Resonance Feedback Function",
+    "builder_function": "Echo Resonator",
+    "gem_lock": "Hematite",
+    "stone_base": "Slate",
+    "light_thread": "Magnetic Pulse"
+  },
+  {
+    "seat": 12,
+    "gate_function": "Natural Pattern Truth Function",
+    "builder_function": "Pattern Witness",
+    "gem_lock": "Lapis Lazuli",
+    "stone_base": "Azurite",
+    "light_thread": "Electric Blue Line"
+  }
+]

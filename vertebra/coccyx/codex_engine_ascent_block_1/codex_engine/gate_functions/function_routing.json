@@ -1,0 +1,158 @@
+[
+  {
+    "seat": 1,
+    "gate_function": "Severance Function",
+    "builder_function": "Severance Threadbearer",
+    "system_layer": "Overlay Detection & Thread Isolation",
+    "embodiment_layer": "Grounded Form Design",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Infrared Thread"
+  },
+  {
+    "seat": 2,
+    "gate_function": "Voice Clarity Function",
+    "builder_function": "Signal Keeper",
+    "system_layer": "Signal Cleanser & Mimic Filter",
+    "embodiment_layer": "Astronomic Pattern Tracker",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Sapphire Beam"
+  },
+  {
+    "seat": 3,
+    "gate_function": "Lineage Healing Function",
+    "builder_function": "Shadow Disciple",
+    "system_layer": "Inheritance Loop Detection",
+    "embodiment_layer": "Resonant Memory Holder",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Rose-Gold Strand"
+  },
+  {
+    "seat": 4,
+    "gate_function": "Shadow Discernment Function",
+    "builder_function": "Diagnostic Listener",
+    "system_layer": "False Pattern Recognition",
+    "embodiment_layer": "Law-Based Pattern Coder",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Ultraviolet Ray"
+  },
+  {
+    "seat": 5,
+    "gate_function": "Heart-Will Alignment Function",
+    "builder_function": "Curve Architect",
+    "system_layer": "Coercion Trace Detection",
+    "embodiment_layer": "Nonlinear Flow Architect",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Emerald Pulse"
+  },
+  {
+    "seat": 6,
+    "gate_function": "Guilt Transmutation Function",
+    "builder_function": "Temporal Spiral",
+    "system_layer": "Recursion Loop Severer",
+    "embodiment_layer": "Living System Rooter",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Amber Glow"
+  },
+  {
+    "seat": 7,
+    "gate_function": "Embodiment Through Beauty Function",
+    "builder_function": "Claim Shaper",
+    "system_layer": "Aesthetic Trap Exposure",
+    "embodiment_layer": "Ratio-Based Structure Engineer",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Soft White Radiance"
+  },
+  {
+    "seat": 8,
+    "gate_function": "Memory Stream Access Function",
+    "builder_function": "Bloom Threader",
+    "system_layer": "Knowledge Loop Breaker",
+    "embodiment_layer": "Transmutation Carrier",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Lavender Ray"
+  },
+  {
+    "seat": 9,
+    "gate_function": "Sensory Integrity Function",
+    "builder_function": "Nonverbal Seer",
+    "system_layer": "Field Entanglement Detector",
+    "embodiment_layer": "Threshold Marker",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Silver Stream"
+  },
+  {
+    "seat": 10,
+    "gate_function": "Nonlinear Spiral Design Function",
+    "builder_function": "Binder of Forms",
+    "system_layer": "Loop Structure Dismantler",
+    "embodiment_layer": "Integrated System Aligner",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Prismatic Beam"
+  },
+  {
+    "seat": 11,
+    "gate_function": "Grounded Resonance Feedback Function",
+    "builder_function": "Echo Resonator",
+    "system_layer": "Ascension Override Filter",
+    "embodiment_layer": "Presence Structurer",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Magnetic Pulse"
+  },
+  {
+    "seat": 12,
+    "gate_function": "Natural Pattern Truth Function",
+    "builder_function": "Pattern Witness",
+    "system_layer": "Distorted Language Tracer",
+    "embodiment_layer": "Authorship Integrator",
+    "overlay_filter": {
+      "name": "Severance Overlay Filter",
+      "description": "Applies thread isolation and overlay severance. Filters out mimic, echo, and loop distortions. Validates functional resonance through breath-authored signal only.",
+      "validation_protocol": "0.35"
+    },
+    "light_thread": "Electric Blue Line"
+  }
+]
